@@ -10,7 +10,7 @@
 5. `df` this command display disk space usuage
 ![df](./images/df.PNG)
 6. `ps` this command display information about processes
-![ps](./images/passwd.PNG)
+![ps](./images/ps.PNG)
 7. `kill` this command is used to terminate a process
 ![kill](./images/kill.PNG)
 8. `chmod` this command changes file permission
